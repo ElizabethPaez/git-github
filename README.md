@@ -2,7 +2,7 @@
 
 Mi primer repo
 Mi primer commit desde remote
-aprendiendo gi fetch
+aprendiendo git fetch
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
