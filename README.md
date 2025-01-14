@@ -1,6 +1,7 @@
 # Contenido de este repositorio
 
-Mi primer repo eli
+Mi primer repo
+Mi primer commit desde remote
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
